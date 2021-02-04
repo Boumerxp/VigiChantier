@@ -1,2 +1,0 @@
-# VigiChantier
-Pour les nuls
